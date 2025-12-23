@@ -792,7 +792,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 🙏 Acknowledgments
 
-Built with [Claude Code](https://claude.com/code) by Anthropic.
+Rebuilt thanks to amazing work by Carl Vellotti with [Claude Code](https://claude.com/code) by Anthropic.
 
 Powered by:
 - Claude Opus 4.5 & Sonnet 4.5 (AI reasoning engines)
